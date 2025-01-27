@@ -5,13 +5,18 @@
 .title{
     font-size: 50px;
     color: orange;
-    
+}
+main{
+    background-color: #e8e9ea;
 }
 .dolci{
     color: grey;
     margin-top: 30px;
-    text-align: center;
+    padding-left: 515px;
 }
 .title2{
     text-align: center;
+}
+.container {
+    display: flex;
 }
