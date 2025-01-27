@@ -20,3 +20,10 @@ main{
 .container {
     display: flex;
 }
+.container2{
+    display: flex;
+    gap: 10px;
+}
+.banner{
+    margin-top: 30px;
+}
